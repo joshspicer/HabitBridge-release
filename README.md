@@ -1,4 +1,4 @@
-> HabitBridge 1.0 has been submitted to the App Store for review. Check back at [https://joshspicer.com/HabitBridge]([https://joshspicer.com/HabitBridge) for updates.
+> HabitBridge 1.0 has been submitted to the App Store for review. Check back at [https://joshspicer.com/HabitBridge](https://joshspicer.com/HabitBridge) for updates.
 
 Thank you for trying HabitBridge! 
 
